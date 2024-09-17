@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **how to build microservices for my internship and pursuing my OSCP (Offensive Security Certified Professional) certificate!**
 
-- 💬 Ask me about **NodeJS**
+- 💬 Ask me about **NodeJS and Security related topics!**
 
 - 📫 How to reach me **yuhao.swe@gmail.com**
 
-- ⚡ Fun fact **I have a twin :D**
+- ⚡ Fun fact **I am part of a twin 😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
