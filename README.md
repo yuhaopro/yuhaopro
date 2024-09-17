@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Yuhao</h1>
-<h3 align="center">A passionate full stack developer from Singapore</h3>
+<h3 align="center">A passionate capybara who wants to solve problems using software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuhaopro&label=Profile%20views&color=0e75b6&style=flat" alt="yuhaopro" /> </p>
 
@@ -10,6 +10,8 @@
 - 💬 Ask me about **NodeJS**
 
 - 📫 How to reach me **yuhao.swe@gmail.com**
+
+- ⚡ Fun fact **I have a twin :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
