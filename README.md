@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuhaopro" alt="yuhaopro" /></a> </p>
 
-- 🌱 I’m currently learning **how to build microservices for my internship!**
+- 🌱 I’m currently learning **how to build microservices for my internship and pursuing my OSCP (Offensive Security Certified Professional) certificate!**
 
 - 💬 Ask me about **NodeJS**
 
