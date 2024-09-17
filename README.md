@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yuhao.swe@gmail.com**
 
-- ⚡ Fun fact **I am part of a twin 😆**
+- ⚡ Fun fact **I have a twin 😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
