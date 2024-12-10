@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Yuhao</h1>
-<h3 align="center">Aspiring Sofware Engineer | Year 3 Computer Science Undergraduate @ NTU</h3>
+<h3 align="center"> Sofware Engineer | Year 3 Computer Science Undergraduate @ NTU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuhaopro&label=Profile%20views&color=0e75b6&style=flat" alt="yuhaopro" /> </p>
 
