@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuhaopro" alt="yuhaopro" /></a> </p>
 
-- 🌱 I’m currently learning **how to build microservices for my internship and pursuing my OSCP (Offensive Security Certified Professional) certificate!**
-
-- 💬 Ask me about **NodeJS and Security related topics!**
-
-- 📫 How to reach me **yuhao.swe@gmail.com**
-
-- ⚡ Fun fact **I have a twin 😆**
+- 📫 How to reach me **yuhao9583@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
